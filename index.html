@@ -11,7 +11,6 @@
 <body>
     <button onclick="subscribe()">BUTTON</button>
     <script>
-
         addEventListener('load', async () => {
             let sw = navigator.serviceWorker.register('./sw.js')
             console.log(sw)
@@ -24,6 +23,7 @@
                 })
                 console.log(JSON.stringify(push));
             }
+        })
     </script>
 </body>
 
