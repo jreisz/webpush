@@ -3,6 +3,7 @@
 ## Pre-requisites:
 
 - [Node](https://nodejs.org/en/download)
+- A valid Application Key and Project Key registered and created on Google Cloud Platform
 
 ## Setting things up:
 
