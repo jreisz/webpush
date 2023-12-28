@@ -25,4 +25,5 @@
 
 1.  Visualize the notification on your notification bar
 
-
+## TODO
+Provide a link to a demo or include an animated gif representing a user receiving the push notification on his device
